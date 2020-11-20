@@ -1,0 +1,7 @@
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\bin\Debug\programa21-Lista Enlazada de Nombres de Personas.exe.config
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\bin\Debug\programa21-Lista Enlazada de Nombres de Personas.exe
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\bin\Debug\programa21-Lista Enlazada de Nombres de Personas.pdb
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\obj\Debug\programa21-Lista Enlazada de Nombres de Personas.csprojAssemblyReference.cache
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\obj\Debug\programa21-Lista Enlazada de Nombres de Personas.csproj.CoreCompileInputs.cache
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\obj\Debug\programa21-Lista Enlazada de Nombres de Personas.exe
+C:\Users\LenovoTNX\Desktop\2020\Estructura de base de datos\Unidad 2\programa21-Lista Enlazada de Nombres de Personas\obj\Debug\programa21-Lista Enlazada de Nombres de Personas.pdb
